@@ -1,0 +1,30 @@
+Species	Site	Latitude	Longitude	ID
+Q. brandegei	Sierra la Laguna	23.5001	-110.0635	BJSL25
+Q. brandegei	Valle perdido	23.7039	-110.137	BJVL19
+Q. brandegei	San Baratolo	23.7665	-110.0156	BJSB3
+Q. fusiformis	Cerro del Diente, Tamaulipas	22.591389	-97.906389	MXED8
+Q. fusiformis	General Teran, Nuevo Leon	25.285833	-99.946667	MXGT4
+Q. fusiformis	Meridian	31.947246	-97.6708089	TXMD3
+Q. fusiformis	Granbury	32.2813837	-97.7341849	TXGR3
+Q. geminata	Archbold Biological Station	27.18367732	-81.3580381	FLAB109
+Q. geminata	Cedar Key Scrub State Preserve	29.20719037	-82.9912802	FLCK18
+Q. geminata	Washington Oaks State Park	29.60458889	-81.1873839	FLWO6
+Q. geminata	San Felasco Hammock State Preserve	29.73496671	-82.4474227	FLSF54
+Q. minima	Savannas Preserve State Park	27.30038191	-80.2751391	FLSA185
+Q. minima	Cedar Key Scrub State Preserve	29.2053585	-82.9941382	FLCK216
+Q. minima	Morningside Nature Center	29.65276899	-82.2804586	FLMO62
+Q. minima	San Felasco Hammock State Preserve	29.71441931	-82.4432919	FLSF47
+Q. oleoides	Rincon de la Vieja National Park	10.78089833	-85.361696	CRL0001
+Q. oleoides	Santa Rosa National Park	11.01429373	-85.6365628	CRL0030
+Q. oleoides	road to Danli	14.03333282	-86.5833359	HNDA09
+Q. oleoides	Berril Boom	17.2412	-88.7467	BZBB1
+Q. oleoides	Off of highway towards Sayula on a ranch	17.90991179	-95.02061	MXSA3017
+Q. sagraena	Cabezas	22.281153	-83.523505	CUCA4
+Q. sagraena	Minas de Matahambre	22.353153	-83.565257	CUMM5
+Q. sagraena	Vinales	22.365991	-83.430021	CUVN10
+Q. sagraena	San Vincente	22.440115	-82.364504	CUSV6
+Q. virginiana	Barnacle Historic State Park	25.72624994	-80.2440177	FLBA140
+Q. virginiana	San Felasco Hammock State Preserve	29.74799656	-82.4553421	FLSF33
+Q. virginiana	Houston Wallisville	29.83351232	-94.7393643	TXWV2
+Q. virginiana	La Combe	30.41143533	-90.0534723	LALC2
+Q. virginiana	Cumbahee	32.58436007	-80.5702206	SCCU3
