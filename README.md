@@ -1,4 +1,4 @@
-## reproducible science for virentes introgression study
+## Reproducible science for virentes introgression study
 
 #### This repository is registered as doi:xxxyyzz
 
@@ -10,21 +10,21 @@ all analyses in the manuscript "Hybridization both obscures and reveals historic
 ### Notebooks  
 
 #### data assembly 
-This notebook contains the code to download sequence data and assemble it in pyRAD v. 2.13. The final result is multiple data sets saved in the directory `assembled_datasets`, available in this repository.  
+This notebook contains code to download sequence data and assemble it in pyRAD v. 2.13.  
 [RAD assembly notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/virentes_introgression.ipynb)  
 
 #### analyses
-The assembled data sets are too large to host in this repository, and are instead hosted on `Dryad` at [this repository link to be added soon](linktodryad).  The notebook below use these assembled data sets for analyses.  
+Our assembled data sets are too large to host in this repository, and are instead hosted on `Dryad` at [this repository link to be added soon](linktodryad).  The notebooks below use these assembled data sets for further analyses.  
 
-This notebook contains the code used for RAxML analyses performed on the data sets in `assembled_datasets`.  
+This notebook contains code used for RAxML analyses performed across many  data sets.  
 [RAxML phylogenetic analysis notebook]()  
 
-This notebook contains the code used for TreeMix analyses performed on the large ingroup SNP data set xxxxxxx.  
+This notebook contains code used for TreeMix analyses performed on the data set xxxxxxx.  
 [Treemix introgression analysis notebook]()  
 
-This notebook contains the code used for D-statistic analyses performed in _pyRAD_ using the largest .loci data set file xxxxxxx.  
+This notebook contains code used for D-statistic analyses performed in _pyRAD_ using the xxx.loci data set.   
 [D-statistics introgression analysis notebook]()  
 
-This notebook contains the code used for fitting demographic models in _dadi__ using the largest .loci data set file xxxxxxx.  
+This notebook contains code used for fitting demographic models in _dadi__ using the xxx.loci data set.  
 [_dadi_ introgression analysis notebook]()  
 
