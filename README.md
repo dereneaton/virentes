@@ -1,6 +1,8 @@
 virentes
 ========
 
+### This repository is registered as doi:xxxyyzz
+
 ### Directions
 
 This repository contains several IPython notebooks outlining code to completely reproduce 
