@@ -13,9 +13,10 @@ all analyses in the manuscript "Hybridization both obscures and reveals historic
 This notebook contains code to download sequence data and assemble it in pyRAD v. 2.13.  
 [RAD assembly notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/virentes_introgression.ipynb)  
 
-#### analyses
+#### data set location  
 Our assembled data sets are too large to host in this repository, and are instead hosted on `Dryad` at [this repository link to be added soon](linktodryad).  The notebooks below use these assembled data sets for further analyses.  
 
+#### analyses  
 This notebook contains code used for RAxML analyses performed across many  data sets.  
 [RAxML phylogenetic analysis notebook]()  
 
