@@ -1,4 +1,4 @@
-## Reproducible science for virentes introgression study
+## Reproducible science for live oak introgression study
 
 #### This repository is registered as doi:xxxyyzz
 
