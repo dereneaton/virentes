@@ -17,14 +17,14 @@ This notebook contains code to download sequence data and assemble it in pyRAD v
 The assembled data sets are too large to host here, and are instead available on `Dryad` at [this repository link to be added soon](linktodryad). These data sets are used in the notebooks below. 
 
 #### Analyses  
-This notebook contains code used for RAxML analyses.
+This notebook contains code used for RAxML analyses.  
 [RAxML phylogenetic analysis notebook]()  
 
-This notebook contains code used for Structure and TreeMix analyses.
+This notebook contains code used for Structure and TreeMix analyses.  
 [Treemix introgression analysis notebook]()  
 
-This notebook contains code used for D-statistic analyses performed in _pyRAD_.
+This notebook contains code used for D-statistic analyses performed in _pyRAD_.  
 [D-statistics introgression analysis notebook]()  
 
-This notebook contains code used for fitting demographic models in _dadi__. 
+This notebook contains code used for fitting demographic models in _dadi__.  
 [_dadi_ introgression analysis notebook]()  
