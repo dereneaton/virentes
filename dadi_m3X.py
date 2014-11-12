@@ -97,13 +97,13 @@ print >>sys.stderr, upper_admix, 'upper'
 print >>sys.stderr, lower_admix, 'lower'
 print >>sys.stderr, p0, 'start values'
 
-popt = dadi.Inference.optimize_log(p0, fs, Func, pts_l, 
-                                   lower_admix, upper_admix,
-                                   10, maxiters)
+#popt = dadi.Inference.optimize_log(p0, fs, Func, pts_l, 
+#                                   lower_admix, upper_admix,
+#                                   10, maxiters)
 
-#popt = dadi.Inference.optimize_log_lbfgsb(p0, fs, Func, pts_l, 
-#                                          lower_admix, upper_admix,
-#                                          10, maxiters)
+popt = dadi.Inference.optimize_log_lbfgsb(p0, fs, Func, pts_l, 
+                                          lower_admix, upper_admix,
+                                          10, maxiters)
 
 mod = Func(popt, ns, pts_l)
 ll_opt = dadi.Inference.ll_multinom(mod, fs)

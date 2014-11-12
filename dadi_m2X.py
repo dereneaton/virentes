@@ -96,12 +96,14 @@ print >>sys.stderr, p0, 'start values'
 #popt = dadi.Inference.optimize_log(p0, fs, Func, pts_l, 
 #                                   lower_IM, upper_IM,
 #                                   10, maxiters)
-popt = dadi.Inference.optimize_log_fmin(p0, fs, Func, pts_l, 
+
+# popt = dadi.Inference.optimize_log_fmin(p0, fs, Func, pts_l, 
+#                                           lower_IM, upper_IM,
+#                                           len(params_IM), maxiters)
+
+popt = dadi.Inference.optimize_log_lbfgsb(p0, fs, Func, pts_l, 
                                           lower_IM, upper_IM,
                                           len(params_IM), maxiters)
-#popt = dadi.Inference.optimize_log_lbfgsb(p0, fs, Func, pts_l, 
-#                                          lower_IM, upper_IM,
-#                                          len(params_IM), maxiters)
 
 mod = Func(popt, ns, pts_l)
 ll_opt = dadi.Inference.ll_multinom(mod, fs)
