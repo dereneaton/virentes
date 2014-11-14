@@ -63,7 +63,6 @@ def IM_split2(params, ns, pts):
     ## simulate the fs
     fs = dadi.Spectrum.from_phi(phi,ns,(xx,xx,xx),
                                 pop_ids=['fl', 'ca', 'cu'])
-    #print fs.S(), 's in spec'
     return fs
 ###############################################################################
 def admix(params, ns, pts):
@@ -125,7 +124,7 @@ def simSFS_model2(theta, N1,N2,N3,mig,T1, T12):
 Nloci = 7794
 
 ############  ML estimates model 2  ###########################################
-theta = 249.587274958/Nloci    ## 0.0233772573097   ## per locus
+theta = 249.587274958/Nloci   ## 0.0233772573097   ## per locus
 N1 = 2.412336866389539
 N2 = 0.66060145092919675
 N3 = 0.23061219403870617
@@ -158,6 +157,8 @@ migration   = ['x',          str(0),      str(ms13),
 
 ## simulate data
 msfs = simSFS_model2(theta, N1, N2, N3, migration, msT1, msT12)
+
+print msfs.S(), 'sim S'
 
 ## save sfs to file
 i = 1
