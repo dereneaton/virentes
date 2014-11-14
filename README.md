@@ -18,7 +18,7 @@ The assembled data sets are too large to host here, and are instead available on
 
 #### Analyses  
 This notebook contains code used for RAxML analyses.  
-[RAxML phylogenetic analysis notebook]()  
+[RAxML phylogenetic analysis notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/nb2_virentes_raxml.ipynb)  
 
 This notebook contains code used for Structure and TreeMix analyses.  
 [Treemix introgression analysis notebook]()  
