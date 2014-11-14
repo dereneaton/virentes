@@ -76,8 +76,8 @@ lower_IM    = [1e-2, 1e-2, 1e-2, 1e-3, 1e-3, 1e-5, 1e-5, 1e-5, 1e-5]
 ###############################################################################
 
 model = IM_split2
-#maxiters = 10
-maxiters = 20
+maxiters = 10
+#maxiters = 20
 
 Func = dadi.Numerics.make_extrap_log_func(model)
 
