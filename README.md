@@ -11,7 +11,7 @@ all analyses in the manuscript "Hybridization both obscures and reveals historic
 
 #### Data assembly 
 This notebook contains code to download sequence data and assemble it in pyRAD v. 2.13.  
-[RAD assembly notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/virentes_introgression.ipynb)  
+[RAD assembly notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/nb1_virentes_assembly.ipynb)  
 
 #### Assembled data 
 The assembled data sets are too large to host here, and are instead available on `Dryad` at [this repository link to be added soon](linktodryad). These data sets are used in the notebooks below. 
