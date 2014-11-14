@@ -1,0 +1,58 @@
+sample 	Nreads	passed	passed.w.trim	passed.total
+AR_re	4046890	3663481	0	3663481
+BJSL25_re	5352627	4870291	0	4870291
+BJVL19_re	4715624	4295618	0	4295618
+CH_re	4539385	4109931	0	4109931
+CRL0001_re	3742953	3388509	0	3388509
+CRL0030_re	3242503	2827096	0	2827096
+DO_re	1953553	1765778	0	1765778
+DU_re	3744449	3376606	0	3376606
+EN_re	743556	674495	0	674495
+FLAB109_re	3219505	2818258	0	2818258
+FLBA140_re	2826213	2602360	0	2602360
+FLSF54_re	2543324	2294835	0	2294835
+HE_re	2777404	2535801	0	2535801
+NI_re	4482353	4063107	0	4063107
+VI1_re	2167294	1968237	0	1968237
+
+    Nreads = total number of reads for a sample
+    passed = retained reads that passed quality filtering at full length
+    passed.w.trim= retained reads that were trimmed due to detection of adapters
+    passed.total  = total kept reads of sufficient length
+    note: you can set the option in params file to include trimmed reads of xx length. 
+sample 	Nreads	passed	passed.w.trim	passed.total
+BJSB3_v	931926	863447	0	863447
+BJSL25_v	969575	894541	0	894541
+BJVL19_v	817443	751172	0	751172
+BZBB1_v	849191	784443	0	784443
+CRL0001_v	1012884	924845	0	924845
+CRL0030_v	1204952	1109750	0	1109750
+CUCA4_v	570148	524632	0	524632
+CUMM5_v	90661	83582	0	83582
+CUSV6_v	775357	717294	0	717294
+CUVN10_v	1130911	1045669	0	1045669
+FLAB109_v	347949	315925	0	315925
+FLBA140_v	975393	902680	0	902680
+FLCK18_v	941880	858984	0	858984
+FLCK216_v	791393	724494	0	724494
+FLMO62_v	905151	838905	0	838905
+FLSA185_v	3976506	3404942	0	3404942
+FLSF33_v	857771	789827	0	789827
+FLSF47_v	908978	838694	0	838694
+FLSF54_v	1115926	1034267	0	1034267
+FLWO6_v	1099920	990387	0	990387
+HNDA09_v	1112292	1032979	0	1032979
+LALC2_v	1436228	1332031	0	1332031
+MXED8_v	1154841	1063197	0	1063197
+MXGT4_v	1347187	1248236	0	1248236
+MXSA3017_v	1046574	960144	0	960144
+SCCU3_v	505504	459182	0	459182
+TXGR3_v	879229	801539	0	801539
+TXMD3_v	934386	858044	0	858044
+TXWV2_v	163427	148579	0	148579
+
+    Nreads = total number of reads for a sample
+    passed = retained reads that passed quality filtering at full length
+    passed.w.trim= retained reads that were trimmed due to detection of adapters
+    passed.total  = total kept reads of sufficient length
+    note: you can set the option in params file to include trimmed reads of xx length. 

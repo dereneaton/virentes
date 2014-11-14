@@ -1,0 +1,93 @@
+
+
+19448       ## loci with > minsp containing data
+15127       ## loci with > minsp containing data & paralogs removed
+15123       ## loci with > minsp containing data & paralogs removed & final filtering
+
+## number of loci recovered in final data set for each taxon.
+taxon	nloci
+BJSB3   	12836
+BJSL25  	12989
+BJVL19  	12802
+BZBB1   	12256
+CRL0001 	12973
+CRL0030 	12024
+CUCA4   	9377
+CUSV6   	11623
+CUVN10  	13698
+FLAB109 	13441
+FLBA140 	12990
+FLCK18  	12274
+FLCK216 	11420
+FLMO62  	12561
+FLSA185 	10548
+FLSF33  	12188
+FLSF47  	12667
+FLSF54  	12693
+FLWO6   	12099
+HNDA09  	13643
+LALC2   	14426
+MXED8   	13330
+MXGT4   	13803
+MXSA3017	13338
+SCCU3   	6797
+TXGR3   	12052
+TXMD3   	13041
+
+
+## nloci = number of loci with data for exactly ntaxa
+## ntotal = number of loci for which at least ntaxa have data
+ntaxa	nloci	saved	ntotal
+1	-
+2	-		-
+3	-		-
+4	-		-
+5	-		-
+6	-		-
+7	-		-
+8	-		-
+9	-		-
+10	-		-
+11	-		-
+12	-		-
+13	-		-
+14	-		-
+15	-		-
+16	-		-
+17	-		-
+18	-		-
+19	-		-
+20	3260	*	15123
+21	3267	*	11863
+22	2888	*	8596
+23	2488	*	5708
+24	1731	*	3220
+25	1010	*	1489
+26	405	*	479
+27	74	*	74
+
+
+## var = number of loci containing n variable sites.
+## pis = number of loci containing n parsimony informative var sites.
+n	var	PIS
+0	3810	3475
+1	8296	3925
+2	6288	3092
+3	3763	1901
+4	2140	1201
+5	1185	714
+6	609	378
+7	317	210
+8	171	112
+9	98	66
+10	55	28
+11	15	6
+12	13	8
+13	4	4
+14	1	0
+15	2	1
+16	3	1
+17	0	0
+18	1	1
+total var= 55802
+total pis= 29957
