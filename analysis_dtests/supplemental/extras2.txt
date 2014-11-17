@@ -1,0 +1,28 @@
+200                           ## N bootstrap reps 
+analysis_pyrad/outfiles/virentes_c85d6m4p5.loci   ## loc/path 
+analysis_dtests/extras2     ## output file 
+4                       ## which test 
+10                           ## N cores (parallel) 
+0                   ## output ABBA/BABA 
+0                   ## output bootstraps 
+-----------------------------------------------------------
+[FLSA185]	[LALC2]	[DO]	[NI,HE]   ##
+[FLSA185]	[FLBA140]	[DO]	[NI,HE]   ##
+[FLSA185]	[FLSF54]	[DO]	[NI,HE]   ##
+[FLSA185]	[FLAB109]	[DO]	[NI,HE]   ##
+
+[FLSF47]	[LALC2]	[DO]	[NI,HE]   ##
+[FLSF47]	[FLBA140]	[DO]	[NI,HE]   ##
+[FLSF47]	[FLSF54]	[DO]	[NI,HE]   ##
+[FLSF47]	[FLAB109]	[DO]	[NI,HE]   ##
+
+[FLSA185]	[LALC2]	[AR]	[NI,HE]   ##
+[FLSA185]	[FLBA140]	[AR]	[NI,HE]   ##
+[FLSA185]	[FLSF54]	[AR]	[NI,HE]   ##
+[FLSA185]	[FLAB109]	[AR]	[NI,HE]   ##
+
+[FLSF47]	[LALC2]	[AR]	[NI,HE]   ##
+[FLSF47]	[FLBA140]	[AR]	[NI,HE]   ##
+[FLSF47]	[FLSF54]	[AR]	[NI,HE]   ##
+[FLSF47]	[FLAB109]	[AR]	[NI,HE]   ##
+

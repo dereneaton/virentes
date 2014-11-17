@@ -1,0 +1,12 @@
+200                           ## N bootstrap reps 
+analysis_pyrad/outfiles/virentes_c85d6m4p5.loci   ## loc/path 
+analysis_dtests/out.19.MVS      ## output file 
+part                       ## which test 
+20                           ## N cores (parallel) 
+0                        ## output ABBA/BABA 
+0                   ## output bootstraps 
+-----------------------------------------------------------
+[FLSA185]	[LALC2]	[CUVN10]	[AR,EN,DO,DU]	## test 19.1
+[FLSA185]	[FLSF33]	[CUVN10]	[AR,EN,DO,DU]	## test 19.2
+[FLSA185]	[FLBA140]	[CUVN10]	[AR,EN,DO,DU]	## test 19.3
+

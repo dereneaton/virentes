@@ -1,0 +1,18 @@
+200                           ## N bootstrap reps 
+analysis_pyrad/outfiles/virentes_c85d6m4p5.loci   ## loc/path 
+analysis_dtests/extras3    ## output file 
+part                       ## which test 
+10                           ## N cores (parallel) 
+0                   ## output ABBA/BABA 
+0                   ## output bootstraps 
+-----------------------------------------------------------
+[CUVN10]	[CUSV6]	[MXSA3017]	[CRL0030]	[AR,EN,DO,DU]	##
+[CUVN10]	[CUSV6]	[MXSA3017]	[CRL0001]	[AR,EN,DO,DU]	##
+[CUVN10]	[CUSV6]	[MXSA3017]	[HNDA09]	[AR,EN,DO,DU]	##
+[CUVN10]	[CUSV6]	[MXSA3017]	[BZBB1]	[AR,EN,DO,DU]	##
+
+[MXSA3017]	[CRL0030]	[CUVN10]	[CUSV6]	[AR,EN,DO,DU]	##
+[MXSA3017]	[CRL0001]	[CUVN10]	[CUSV6]	[AR,EN,DO,DU]	##
+[MXSA3017]	[HNDA09]	[CUVN10]	[CUSV6]	[AR,EN,DO,DU]	##
+[MXSA3017]	[BZBB1]	[CUVN10]	[CUSV6]	[AR,EN,DO,DU]	##
+

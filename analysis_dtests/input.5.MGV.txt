@@ -1,0 +1,12 @@
+200                           ## N bootstrap reps 
+analysis_pyrad/outfiles/virentes_c85d6m4p5.loci   ## loc/path 
+analysis_dtests/out.5.MGV      ## output file 
+part                       ## which test 
+20                           ## N cores (parallel) 
+0                        ## output ABBA/BABA 
+0                   ## output bootstraps 
+-----------------------------------------------------------
+[FLSA185]	[FLCK18]	[LALC2]	[AR,EN,DO,DU]	## test 5.1
+[FLSA185]	[FLCK18]	[FLSF33]	[AR,EN,DO,DU]	## test 5.2
+[FLSA185]	[FLCK18]	[FLBA140]	[AR,EN,DO,DU]	## test 5.3
+

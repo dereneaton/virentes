@@ -1,0 +1,11 @@
+200                           ## N bootstrap reps 
+analysis_pyrad/outfiles/virentes_c85d6m4p5.loci   ## loc/path 
+analysis_dtests/out.33.SVFmB      ## output file 
+part                       ## which test 
+20                           ## N cores (parallel) 
+0                        ## output ABBA/BABA 
+0                   ## output bootstraps 
+-----------------------------------------------------------
+[MXSA3017]	[CUVN10]	[MXED8]	[BJVL19]	[AR,EN,DO,DU]	## test 33.1
+[HNDA09]	[CUVN10]	[MXED8]	[BJVL19]	[AR,EN,DO,DU]	## test 33.2
+

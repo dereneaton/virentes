@@ -1,0 +1,2 @@
+p1      	p2       	p3_1    	p3_2    	O            	D_12	D_1	D_2	Z_12	Z_1	Z_2	BABBA	ABBBA	BABAA	ABBAA	BAABA	ABABA	nloci	pdisc	notes
+[FLCK18]	[FLSA185]	[CUVN10]	[HNDA09]	[AR,EN,DO,DU]	-0.099	-0.136	-0.002	2.74	2.50	0.03	438.19	359.45	172.86	131.55	106.17	105.67	8149	0.15	test 50.1

@@ -1,0 +1,10 @@
+200                           ## N bootstrap reps 
+analysis_pyrad/outfiles/virentes_c85d6m4p5.loci   ## loc/path 
+analysis_dtests/out.49.OSVV      ## output file 
+part                       ## which test 
+20                           ## N cores (parallel) 
+0                        ## output ABBA/BABA 
+0                   ## output bootstraps 
+-----------------------------------------------------------
+[HNDA09]	[CUVN10]	[FLBA140]	[LALC2]	[AR,EN,DO,DU]	## test 49.1
+

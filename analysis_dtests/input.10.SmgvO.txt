@@ -1,0 +1,34 @@
+200                           ## N bootstrap reps 
+analysis_pyrad/outfiles/virentes_c85d6m4p5.loci   ## loc/path 
+analysis_dtests/out.10.SmgvO      ## output file 
+part                       ## which test 
+20                           ## N cores (parallel) 
+0                        ## output ABBA/BABA 
+0                   ## output bootstraps 
+-----------------------------------------------------------
+[CUVN10]	[FLSA185]	[MXSA3017]	[AR,EN,DO,DU]	## test 10.1
+[CUVN10]	[FLSA185]	[BZBB1]	[AR,EN,DO,DU]	## test 10.2
+[CUVN10]	[FLSA185]	[HNDA09]	[AR,EN,DO,DU]	## test 10.3
+[CUVN10]	[FLSA185]	[CRL0001]	[AR,EN,DO,DU]	## test 10.4
+[CUVN10]	[FLSA185]	[CRL0030]	[AR,EN,DO,DU]	## test 10.5
+[CUVN10]	[FLCK18]	[MXSA3017]	[AR,EN,DO,DU]	## test 10.6
+[CUVN10]	[FLCK18]	[BZBB1]	[AR,EN,DO,DU]	## test 10.7
+[CUVN10]	[FLCK18]	[HNDA09]	[AR,EN,DO,DU]	## test 10.8
+[CUVN10]	[FLCK18]	[CRL0001]	[AR,EN,DO,DU]	## test 10.9
+[CUVN10]	[FLCK18]	[CRL0030]	[AR,EN,DO,DU]	## test 10.10
+[CUVN10]	[LALC2]	[MXSA3017]	[AR,EN,DO,DU]	## test 10.11
+[CUVN10]	[LALC2]	[BZBB1]	[AR,EN,DO,DU]	## test 10.12
+[CUVN10]	[LALC2]	[HNDA09]	[AR,EN,DO,DU]	## test 10.13
+[CUVN10]	[LALC2]	[CRL0001]	[AR,EN,DO,DU]	## test 10.14
+[CUVN10]	[LALC2]	[CRL0030]	[AR,EN,DO,DU]	## test 10.15
+[CUVN10]	[FLSF33]	[MXSA3017]	[AR,EN,DO,DU]	## test 10.16
+[CUVN10]	[FLSF33]	[BZBB1]	[AR,EN,DO,DU]	## test 10.17
+[CUVN10]	[FLSF33]	[HNDA09]	[AR,EN,DO,DU]	## test 10.18
+[CUVN10]	[FLSF33]	[CRL0001]	[AR,EN,DO,DU]	## test 10.19
+[CUVN10]	[FLSF33]	[CRL0030]	[AR,EN,DO,DU]	## test 10.20
+[CUVN10]	[FLBA140]	[MXSA3017]	[AR,EN,DO,DU]	## test 10.21
+[CUVN10]	[FLBA140]	[BZBB1]	[AR,EN,DO,DU]	## test 10.22
+[CUVN10]	[FLBA140]	[HNDA09]	[AR,EN,DO,DU]	## test 10.23
+[CUVN10]	[FLBA140]	[CRL0001]	[AR,EN,DO,DU]	## test 10.24
+[CUVN10]	[FLBA140]	[CRL0030]	[AR,EN,DO,DU]	## test 10.25
+

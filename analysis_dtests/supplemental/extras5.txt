@@ -1,0 +1,51 @@
+200                           ## N bootstrap reps 
+analysis_pyrad/outfiles/virentes_c85d6m4p5.loci   ## loc/path 
+analysis_dtests/extras/extras5     ## output file 
+part                       ## which test 
+16                           ## N cores (parallel) 
+0                   ## output ABBA/BABA 
+0                   ## output bootstraps 
+-----------------------------------------------------------
+
+[HNDA09]	[CUVN10]	[FLSA185]	[LALC2]	[DO,DU,AR,EN]   ##  OSMV
+[MXSA3017]	[CUVN10]	[FLSA185]	[LALC2]	[DO,DU,AR,EN]   ##  OSMV
+
+[HNDA09]	[CUVN10]	[FLSA185]	[FLBA140]	[DO,DU,AR,EN]   ##  OSMV
+[MXSA3017]	[CUVN10]	[FLSA185]	[FLBA140]	[DO,DU,AR,EN]   ##  OSMV
+
+[HNDA09]	[CUVN10]	[FLCK216]	[LALC2]	[DO,DU,AR,EN]   ##  OSMV
+[MXSA3017]	[CUVN10]	[FLCK216]	[LALC2]	[DO,DU,AR,EN]   ##  OSMV
+
+[HNDA09]	[CUVN10]	[FLCK216]	[FLBA140]	[DO,DU,AR,EN]   ##  OSMV
+[MXSA3017]	[CUVN10]	[FLCK216]	[FLBA140]	[DO,DU,AR,EN]   ##  OSMV
+
+[HNDA09]	[CUVN10]	[FLAB109]	[LALC2]	[DO,DU,AR,EN]   ##  OSGV
+[MXSA3017]	[CUVN10]	[FLAB109]	[LALC2]	[DO,DU,AR,EN]   ##  OSGV
+
+[HNDA09]	[CUVN10]	[FLAB109]	[FLBA140]	[DO,DU,AR,EN]   ##  OSGV
+[MXSA3017]	[CUVN10]	[FLAB109]	[FLBA140]	[DO,DU,AR,EN]   ##  OSGV
+
+[HNDA09]	[CUVN10]	[FLCK216]	[FLAB109]	[DO,DU,AR,EN]   ##  OSMG
+[MXSA3017]	[CUVN10]	[FLCK216]	[FLAB109]	[DO,DU,AR,EN]   ##  OSMG
+
+
+[FLSA185]	[LALC2]	[HNDA09]	[CUVN10]	[DO,DU,AR,EN]   ##  MVOS
+[FLSA185]	[LALC2]	[MXSA3017]	[CUVN10]	[DO,DU,AR,EN]   ##  MVOS
+
+[FLSA185]	[FLBA140]	[HNDA09]	[CUVN10]	[DO,DU,AR,EN]   ##  MVOS
+[FLSA185]	[FLBA140]	[MXSA3017]	[CUVN10]	[DO,DU,AR,EN]   ##  MVOS
+
+[FLCK216]	[LALC2]	[HNDA09]	[CUVN10]	[DO,DU,AR,EN]   ##  MVOS
+[FLCK216]	[LALC2]	[MXSA3017]	[CUVN10]	[DO,DU,AR,EN]   ##  MVOS
+
+[FLCK216]	[FLBA140]	[HNDA09]	[CUVN10]	[DO,DU,AR,EN]   ##  MVOS
+[FLCK216]	[FLBA140]	[MXSA3017]	[CUVN10]	[DO,DU,AR,EN]   ##  MVOS
+
+[FLAB109]	[LALC2]	[HNDA09]	[CUVN10]	[DO,DU,AR,EN]   ##  GVOS
+[FLAB109]	[LALC2]	[MXSA3017]	[CUVN10]	[DO,DU,AR,EN]   ##  GVOS
+
+[FLAB109]	[FLBA140]	[HNDA09]	[CUVN10]	[DO,DU,AR,EN]   ##  GVOS
+[FLAB109]	[FLBA140]	[MXSA3017]	[CUVN10]	[DO,DU,AR,EN]   ##  GVOS
+
+[FLCK216]	[FLAB109]	[HNDA09]	[CUVN10]	[DO,DU,AR,EN]   ##  MGOS
+[FLCK216]	[FLAB109]	[MXSA3017]	[CUVN10]	[DO,DU,AR,EN]   ##  MGOS

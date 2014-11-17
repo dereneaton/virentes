@@ -1,0 +1,29 @@
+200                           ## N bootstrap reps 
+analysis_pyrad/outfiles/virentes_c85d6m4p5.loci   ## loc/path 
+analysis_dtests/out.12.OOF      ## output file 
+part                       ## which test 
+20                           ## N cores (parallel) 
+0                        ## output ABBA/BABA 
+0                   ## output bootstraps 
+-----------------------------------------------------------
+[MXSA3017]	[BZBB1]	[TXMD3]	[AR,EN,DO,DU]	## test 12.1
+[MXSA3017]	[BZBB1]	[MXED8]	[AR,EN,DO,DU]	## test 12.2
+[MXSA3017]	[HNDA09]	[TXMD3]	[AR,EN,DO,DU]	## test 12.3
+[MXSA3017]	[HNDA09]	[MXED8]	[AR,EN,DO,DU]	## test 12.4
+[MXSA3017]	[CRL0001]	[TXMD3]	[AR,EN,DO,DU]	## test 12.5
+[MXSA3017]	[CRL0001]	[MXED8]	[AR,EN,DO,DU]	## test 12.6
+[MXSA3017]	[CRL0030]	[TXMD3]	[AR,EN,DO,DU]	## test 12.7
+[MXSA3017]	[CRL0030]	[MXED8]	[AR,EN,DO,DU]	## test 12.8
+[BZBB1]	[HNDA09]	[TXMD3]	[AR,EN,DO,DU]	## test 12.9
+[BZBB1]	[HNDA09]	[MXED8]	[AR,EN,DO,DU]	## test 12.10
+[BZBB1]	[CRL0001]	[TXMD3]	[AR,EN,DO,DU]	## test 12.11
+[BZBB1]	[CRL0001]	[MXED8]	[AR,EN,DO,DU]	## test 12.12
+[BZBB1]	[CRL0030]	[TXMD3]	[AR,EN,DO,DU]	## test 12.13
+[BZBB1]	[CRL0030]	[MXED8]	[AR,EN,DO,DU]	## test 12.14
+[HNDA09]	[CRL0001]	[TXMD3]	[AR,EN,DO,DU]	## test 12.15
+[HNDA09]	[CRL0001]	[MXED8]	[AR,EN,DO,DU]	## test 12.16
+[HNDA09]	[CRL0030]	[TXMD3]	[AR,EN,DO,DU]	## test 12.17
+[HNDA09]	[CRL0030]	[MXED8]	[AR,EN,DO,DU]	## test 12.18
+[CRL0001]	[CRL0030]	[TXMD3]	[AR,EN,DO,DU]	## test 12.19
+[CRL0001]	[CRL0030]	[MXED8]	[AR,EN,DO,DU]	## test 12.20
+

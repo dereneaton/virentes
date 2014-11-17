@@ -1,0 +1,37 @@
+200                           ## N bootstrap reps 
+analysis_pyrad/outfiles/virentes_c85d6m4p5.loci   ## loc/path 
+analysis_dtests/extras/extras     ## output file 
+part                       ## which test 
+10                           ## N cores (parallel) 
+0                   ## output ABBA/BABA 
+0                   ## output bootstraps 
+-----------------------------------------------------------
+[MXSA3017]	[HNDA09]	[LALC2]	[CUVN10]	[DO,DU,AR,EN]	##  OOVS
+[MXSA3017]	[HNDA09]	[FLBA140]	[CUVN10]	[DO,DU,AR,EN]	##  OOVS
+
+[LALC2]	[CUVN10]	[HNDA09]	[MXSA3017]	[DO,DU,AR,EN]	## VSOO
+[LALC2]	[CUVN10]	[HNDA09]	[MXSA3017]	[DO,DU,AR,EN]	## VSOO
+
+[HNDA09]	[CUVN10]	[FLBA140]	[LALC2]	[DO,DU,AR,EN]	##  OSVV
+[MXSA3017]	[CUVN10]	[FLBA140]	[LALC2]	[DO,DU,AR,EN]	##  OSVV
+
+[LALC2]	[FLBA140]	[CUVN10]	[HNDA09]	[DO,DU,AR,EN]	##  VVSO
+[LALC2]	[FLBA140]	[CUVN10]	[HNDA09]	[DO,DU,AR,EN]	##  VVSO
+
+
+
+[MXSA3017]	[HNDA09]	[FLAB109]	[CUVN10]	[DO,DU,AR,EN]	##  OOVG
+[FLAB109]	[CUVN10]	[HNDA09]	[MXSA3017]	[DO,DU,AR,EN]	##  GSOO
+
+[HNDA09]	[CUVN10]	[FLBA140]	[FLAB109]	[DO,DU,AR,EN]	##  OSVG
+[MXSA3017]	[CUVN10]	[FLBA140]	[FLAB109]	[DO,DU,AR,EN]	##  OSVG
+[HNDA09]	[CUVN10]	[LALC2]	[FLAB109]	[DO,DU,AR,EN]	##  OSVG
+[MXSA3017]	[CUVN10]	[LALC2]	[FLAB109]	[DO,DU,AR,EN]	##  OSVG
+
+[LALC2]	[FLAB109]	[CUVN10]	[HNDA09]	[DO,DU,AR,EN]	##  VGSO
+[LALC2]	[FLAB109]	[CUVN10]	[HNDA09]	[DO,DU,AR,EN]	##  VGSO
+
+[FLBA140]	[FLAB109]	[CUVN10]	[HNDA09]	[DO,DU,AR,EN]	##  VGSO
+[FLBA140]	[FLAB109]	[CUVN10]	[HNDA09]	[DO,DU,AR,EN]	##  VGSO
+
+

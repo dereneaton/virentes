@@ -1,0 +1,19 @@
+200                           ## N bootstrap reps 
+analysis_pyrad/outfiles/virentes_c85d6m4p5.loci   ## loc/path 
+analysis_dtests/out.16.BFmgv      ## output file 
+part                       ## which test 
+20                           ## N cores (parallel) 
+0                        ## output ABBA/BABA 
+0                   ## output bootstraps 
+-----------------------------------------------------------
+[BJVL19]	[TXMD3]	[FLSA185]	[AR,EN,DO,DU]	## test 16.1
+[BJVL19]	[TXMD3]	[FLCK18]	[AR,EN,DO,DU]	## test 16.2
+[BJVL19]	[TXMD3]	[LALC2]	[AR,EN,DO,DU]	## test 16.3
+[BJVL19]	[TXMD3]	[FLSF33]	[AR,EN,DO,DU]	## test 16.4
+[BJVL19]	[TXMD3]	[FLBA140]	[AR,EN,DO,DU]	## test 16.5
+[BJVL19]	[MXED8]	[FLSA185]	[AR,EN,DO,DU]	## test 16.6
+[BJVL19]	[MXED8]	[FLCK18]	[AR,EN,DO,DU]	## test 16.7
+[BJVL19]	[MXED8]	[LALC2]	[AR,EN,DO,DU]	## test 16.8
+[BJVL19]	[MXED8]	[FLSF33]	[AR,EN,DO,DU]	## test 16.9
+[BJVL19]	[MXED8]	[FLBA140]	[AR,EN,DO,DU]	## test 16.10
+
