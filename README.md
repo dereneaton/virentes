@@ -27,4 +27,4 @@ This notebook contains code used for D-statistic analyses performed in _pyRAD_.
 [D-statistics introgression analysis notebook]()  
 
 This notebook contains code used for fitting demographic models in _dadi__.  
-[_dadi_ introgression analysis notebook]()  
+[_dadi_ introgression analysis notebook](http://nbviewer.ipython.org/urls/raw.github.com/dereneaton/virentes/master/nb5_virentes_dadi.ipynb)  
