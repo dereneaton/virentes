@@ -11,20 +11,20 @@ all analyses in the manuscript "Hybridization both obscures and reveals historic
 
 #### Data assembly 
 This notebook contains code to download sequence data and assemble it in pyRAD v. 2.13.  
-[RAD assembly notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/nb1_virentes_assembly.ipynb)  
+1. [RAD assembly notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/nb1_virentes_assembly.ipynb)  
 
 #### Assembled data 
 The assembled data sets are too large to host here, and are instead available on `Dryad` at [this repository link to be added soon](linktodryad). These data sets are used in the notebooks below. 
 
 #### Analyses  
 This notebook contains code used for RAxML analyses.  
-[RAxML phylogenetic analysis notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/nb2_virentes_trees.ipynb)  
+2. [Phylogenetic analysis notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/nb2_virentes_trees.ipynb)  
 
 This notebook contains code used for D-statistic analyses performed in _pyRAD_.  
-[D-statistics introgression analysis notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/nb3_virentes_dtests.ipynb)  
+3. [D-statistics introgression analysis notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/nb3_virentes_dtests.ipynb)  
 
 This notebook contains code used for Structure and TreeMix analyses.  
-[Population analyses notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/nb4_virentes_populations.ipynb)  
+4. [Population analyses notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/nb4_virentes_populations.ipynb)  
 
 This notebook contains code used for fitting demographic models in _dadi__.  
-[_dadi_ introgression analysis notebook](http://nbviewer.ipython.org/urls/raw.github.com/dereneaton/virentes/master/nb5_virentes_dadi.ipynb)  
+5. [_dadi_ introgression analysis notebook](http://nbviewer.ipython.org/urls/raw.github.com/dereneaton/virentes/master/nb5_virentes_dadi.ipynb)  
