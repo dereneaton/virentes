@@ -1,7 +1,5 @@
 ## Reproducible science for live oak introgression study
 
-#### This repository is registered as doi:xxxyyzz
-
 ### Directions
 
 This repository contains several IPython notebooks with code to reproduce 
