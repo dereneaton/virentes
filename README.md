@@ -4,8 +4,8 @@
 
 ### Directions
 
-This repository contains several IPython notebooks with code to completely reproduce 
-all analyses in the manuscript "Hybridization obscures and reveals historical relationships among the American live oaks" (Eaton et al. xxxx). The notebooks can be viewed as 'read-only' by opening the links below, or they can be opened and executed as IPython notebooks.  
+This repository contains several IPython notebooks with code to reproduce 
+all analyses in the manuscript "Historical introgression among the American live oaks and the comparative nature of tests for Introgression" (Eaton et al. 2015). The notebooks can be viewed by opening the links below.  
 
 ### Notebooks  
 
@@ -13,8 +13,9 @@ all analyses in the manuscript "Hybridization obscures and reveals historical re
 This notebook contains code to download sequence data and assemble it in pyRAD v. 2.13.  
 1. [RAD assembly notebook](http://nbviewer.ipython.org/github/dereneaton/virentes/blob/master/nb1_virentes_assembly.ipynb)  
 
-#### Assembled data 
-The assembled data sets are hosted on `Dryad` at [this repository link to be added soon](linktodryad). These data sets are used for analyses contained in the notebooks below. 
+#### Assembled data sets  
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19475.svg)](http://dx.doi.org/10.5281/zenodo.19475)  
+The assembled data sets are hosted on `Zenodo` at the DOI above. These data sets are used for analyses contained in the notebooks below. 
 
 #### Analyses  
 This notebook contains code used for _RAxML_ analyses.  
