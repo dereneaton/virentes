@@ -1,5 +1,7 @@
 ## Reproducible science for live oak introgression study
 
+### This code repository is archived: [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19476.svg)](http://dx.doi.org/10.5281/zenodo.19476)
+
 ### Directions
 
 This repository contains several IPython notebooks with code to reproduce 
